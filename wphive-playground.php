@@ -261,7 +261,7 @@ class WP_Hive_Playground {
 
 						<div class="hive-hosting-pricing">
 							<div class="hive-hosting-price">
-								<span class="hive-price-amount">$25</span>
+								<span class="hive-price-amount">$9</span>
 								<span class="hive-price-period">/month</span>
 							</div>
 							<p>Starting price for small sites</p>
